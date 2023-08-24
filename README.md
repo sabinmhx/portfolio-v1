@@ -4,7 +4,7 @@ This is my first iteration personal portfolio website.
 
 It is published [here.](http://sabin-maharjan.com.np/v1)
 
-![Portfolio Website](img/personal_portfolio_v1.png)
+![Portfolio Website](img/portfolio_v1.png)
 
 Welcome to my personal portfolio website! This is a showcase of my skills, projects, and achievements as a web developer. Feel free to explore and get to know me better.
 
